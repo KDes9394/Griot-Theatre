@@ -1,0 +1,83 @@
+.collapse navbar-collapse {
+    align-items: center;
+}
+
+.container {
+    justify-content:center;
+}
+
+
+.footer{
+    display:flex;
+    justify-content: space-evennly;
+}
+
+
+.footer-container{
+flex-direction:column;
+}
+
+.navbarNav {
+    justify-content:flex-end;
+}
+
+.container-fluid {
+    display:column;
+    font-family:"Robot";
+    justify-content: center;
+
+}
+
+
+.text{
+    color:white;
+    position: absolute;
+ }
+
+
+
+
+
+.column-container {
+    display:flex;
+    flex-direction: column;
+    order:0;
+    display: column;
+    justify-content:center;
+}
+
+
+.april2020 {
+    display:row;
+    order:0;
+    border: 1px gray;
+    padding-top: 50px;
+    padding-left:50px;
+    padding-right: 50px;
+}
+
+
+
+.card-img-overlay{
+    font-size: 100px;
+    font-family: "Robot";
+}
+
+.show-container{
+    display:flex;
+    flex-direction: row;
+    order:0;
+    display:flex;
+    justify-content: center;
+}
+
+
+.card-img {
+    border:1px black;
+}
+
+.card-desc{
+    padding-left: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
